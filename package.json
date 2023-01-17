@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/engineerd/configurator.git"
+    "url": "git+https://github.com/rajatjindal/configurator.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "Engineerd",
+  "author": "rajatjindal",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
